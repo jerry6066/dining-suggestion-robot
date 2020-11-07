@@ -24,7 +24,7 @@ Our data for restaurant information comes from Yelp. We use Yelp API to store th
 
 ### Project Rebuild
 
-You can find all the necessary source code [here](./aws file ) and follow the instruction step by step.
+You can find all the necessary source code [here](https://github.com/jerry6066/dining-suggestion-robot/tree/main/aws%20file) and follow the instruction step by step.
 
 
 
